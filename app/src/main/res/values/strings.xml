@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="btnExplicitActivity">Start Explicit Activity</string>
+    <string name="btnVoRed">Во ред</string>
+    <string name="btnOtkazhi">Откажи</string>
+    <string name="btnImplicitActivity">Start Implicit Activity</string>
+    <string name="IMPLICIT_ACTION_MPIP">mk.ukim.finki.mpip.IMPLICIT_ACTION</string>
+    <string name="btnSpodeli">Share</string>
+    <string name="btnSelectImage">Select image from your phone</string>
+
+</resources>
